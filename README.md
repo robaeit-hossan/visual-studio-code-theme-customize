@@ -24,7 +24,7 @@ To configure the settings, follow these steps:
 
      ![file](https://github.com/user-attachments/assets/cf5e21e0-d101-486d-92fe-f9cf6eef0b41)
     
-3. Download and Paste the JSON File
+3. Remove Current Json and Download file Paste the JSON Area.
   
   - Download the required JSON file and paste it in the designated area
 
