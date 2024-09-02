@@ -2,14 +2,14 @@
 A vibrant and modern theme for Visual Studio Code that enhances your coding experience.
 This theme brings a fresh look to your favorite editor with carefully chosen colors, contrast, and syntax highlighting to reduce eye strain and improve readability. It's perfect for developers who spend long hours coding and want an aesthetically pleasing environment.
 
-#Fetures
+## Fetures
 - Custom Color Scheme: A unique blend of colors tailored to improve focus and reduce distractions.
 - Syntax Highlighting: Enhanced syntax highlighting for popular languages like JavaScript, Python, HTML, CSS, and more.
 - Multiple Variants: Available in both light and dark modes to suit your preference.
 - Intuitive UI Elements: Designed with clarity in mind, providing a clean interface that makes navigation a breeze.
 - Easy Installation: Install directly from the VS Code Marketplace or clone the repository and apply the theme manually.
 
-#How to Set Up
+## How to Set Up
 To configure the settings, follow these steps:
 
 1. Navigate to Settings
@@ -31,4 +31,4 @@ To configure the settings, follow these steps:
      ![Screenshot (9)](https://github.com/user-attachments/assets/07720451-9862-4541-b6ce-b7b145e6e22f)
     
 
-#Thank You
+## Thank You
