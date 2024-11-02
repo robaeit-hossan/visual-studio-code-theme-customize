@@ -88,9 +88,17 @@
   "editor.linkedEditing": true,
   "background.windowBackgrounds": ["c:/Users/Rihan/Desktop/beautiful.jpg"],
   "background.backgroundOpacity": [0.1, 0.1, 0.1, 0.1],
-  "debug.javascript.debugByLinkOptions": "on"
-  // "java.configuration.runtimes": [
-
-  // ],
-  // "explorer.confirmDelete": false
+  "debug.javascript.debugByLinkOptions": "on",
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": null,
+      "savePathReplacementPairs": null
+    }
+  ],
+  "liveSassCompile.settings.autoprefix": ["> 1%", "last 200 versions"],
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmPasteNative": false,
+  "explorer.confirmDragAndDrop": false
 }
